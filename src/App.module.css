@@ -1,0 +1,16 @@
+.headling {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 30px;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+body {
+  background-color: aquamarine;
+}
+.contacts {
+  text-align: center;
+  font-size: 25px;
+  font-style: italic;
+}
